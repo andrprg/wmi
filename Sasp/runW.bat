@@ -1,0 +1,1 @@
+Wscript.exe //X sasp.vbs

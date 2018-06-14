@@ -1,0 +1,1 @@
+PsExec \\ 10.57.131.8 -s wusa \\10.57.131.155\start\Windows7-KB2998527-x64.msu
